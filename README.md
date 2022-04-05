@@ -1,4 +1,6 @@
 # My first vue project
 
-https://mosnter-slayer.netlify.app/
+<a href="https://mosnter-slayer.netlify.app/
+" target=_blank></a>
+
 
